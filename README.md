@@ -56,8 +56,8 @@ Make sure you have the following installed on your system:
     flutter run
     ```
 
-    #### OR
-        Install the APK directly from here
+#### OR
+     Install the APK directly from here
 
 [![Download APK](https://img.shields.io/github/v/release/deConstrucKt/Wrant?label=Download%20APK&style=for-the-badge&color=green)](https://github.com/deConstrucKt/Wrant/releases/download/v1.0.0/app-arm64-v8a-release.apk)
 
