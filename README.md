@@ -1,5 +1,8 @@
 # Wrant 📝
 
+[![Download APK](https://shields.io)](https://github.com/deConstrucKt/Wrant/releases/download/v1.0.0/app-arm64-v8a-release.apk)
+
+
 **Wrant** is a minimal, personal diary app built with Flutter. Designed specifically as a private vent space, Wrant provides a low-stress environment where users can write down raw thoughts and keep their personal vents locked away safely.
 
 ---
