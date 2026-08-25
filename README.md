@@ -14,9 +14,12 @@
 ---
 
 ## 📱 Screenshots
+<img width="1480" height="2800" alt="Screenshot_2026-08-22-20-54-20-768_com example wrant-portrait" src="https://github.com/user-attachments/assets/7cf28c3b-17aa-41b5-b3bd-b6f39f8f1954" />
+<img width="1480" height="2800" alt="Screenshot_2026-08-22-20-54-43-524_com example wrant-portrait" src="https://github.com/user-attachments/assets/b8611fd4-e170-4c71-aefc-0549f805d6b5" />
 
 ---
 # ## 🚀 Getting Started
+
 
 ### Prerequisites
 
