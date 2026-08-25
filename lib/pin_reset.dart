@@ -10,7 +10,7 @@ import 'package:wrant/database/secure_storage.dart';
 import 'home.dart';
 
 class PinResetPage extends StatefulWidget {
-  const PinResetPage({Key? key}) : super(key: key);
+  const PinResetPage({super.key});
 
   @override
   State<PinResetPage> createState() => _PinResetPageState();

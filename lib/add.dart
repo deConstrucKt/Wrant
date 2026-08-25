@@ -11,7 +11,7 @@ import 'package:wrant/database/database_helper.dart';
 enum ColorsToPick { black, green, lightBlue, pink, orange, teal }
 
 class AddPage extends StatefulWidget {
-  const AddPage({Key? key}) : super(key: key);
+  const AddPage({super.key});
 
   @override
   State<AddPage> createState() => _AddPageState();

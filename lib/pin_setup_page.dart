@@ -11,7 +11,7 @@ import 'package:wrant/database/secure_storage.dart';
 import 'package:wrant/home.dart';
 
 class PinSetupPage extends StatefulWidget {
-  const PinSetupPage({Key? key}) : super(key: key);
+  const PinSetupPage({super.key});
 
   @override
   State<PinSetupPage> createState() => _PinSetupPageState();

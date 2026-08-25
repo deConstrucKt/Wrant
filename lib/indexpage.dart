@@ -6,7 +6,7 @@ import 'package:wrant/database/database_helper.dart';
 import 'package:wrant/view.dart';
 
 class IndexPage extends StatefulWidget {
-  const IndexPage({Key? key}) : super(key: key);
+  const IndexPage({super.key});
 
   @override
   State<IndexPage> createState() => _IndexPageState();

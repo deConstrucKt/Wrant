@@ -11,7 +11,7 @@ import 'package:wrant/pin_reset.dart';
 import 'home.dart';
 
 class PinCheckPage extends StatefulWidget {
-  const PinCheckPage({Key? key}) : super(key: key);
+  const PinCheckPage({super.key});
 
   @override
   State<PinCheckPage> createState() => _PinCheckPageState();
