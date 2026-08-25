@@ -18,7 +18,7 @@
 <img width="222" height="420" alt="Screenshot_2026-08-22-20-54-43-524_com example wrant-portrait" src="https://github.com/user-attachments/assets/b8611fd4-e170-4c71-aefc-0549f805d6b5" />
 
 ---
-# ## 🚀 Getting Started
+#🚀 Getting Started
 
 
 ### Prerequisites
