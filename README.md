@@ -41,7 +41,7 @@ Make sure you have the following installed on your system:
     Bash
 
     ```
-    git clone [https://github.com/deConstrucKt/Wrant.git](https://github.com/deConstrucKt/Wrant.git)
+    git clone https://github.com/deConstrucKt/Wrant.git
     ```
 
 2.  **Install Flutter dependencies:**
